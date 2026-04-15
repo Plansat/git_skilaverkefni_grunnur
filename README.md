@@ -1,4 +1,4 @@
-# Git Vor 26
+# Git Vor 26 gg
 
 **Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
 

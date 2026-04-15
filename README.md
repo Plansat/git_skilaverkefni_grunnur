@@ -1,5 +1,5 @@
 # Git Vor 26 gg
-# Þetta er annar titill
+# Þetta er annar titill og smá auka texta
 
 **Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
 

@@ -1,4 +1,5 @@
 # Git Vor 26 gg
+## Titill 2
 
 **Athugið að verkefnið er einstaklingsverkefni, ef tveir eða fleiri skila sömu lausninni verður gefið 0 (núll) fyrir þær lausnir.**
 
